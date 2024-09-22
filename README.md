@@ -6,7 +6,7 @@ Key Learnings from This Project:
 MongoDB Querying: Gained hands-on experience with CRUD operations and complex queries.
 Data Manipulation: Learned how to filter, update, and delete records effectively.
 Aggregation Framework: Explored techniques to summarize and analyze data.
-Practical Application: Developed practical skills for real-world database management tasks.
+Practical Application: Developed practical skills for real-world database management tasks..
 
 Problem Solving Statement :
 
