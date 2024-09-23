@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "66f00989ba9e63a692ddbc44"
+  },
+  "name": "Rohit",
+  "age": 23,
+  "math_score": 85,
+  "physics_score": 90,
+  "city": "New York",
+  "graduated": true
+},
+{
+  "_id": {
+    "$oid": "66f00989ba9e63a692ddbc45"
+  },
+  "name": "Eram",
+  "age": 22,
+  "math_score": 78,
+  "physics_score": 75,
+  "city": "Los Angeles"
+},
+{
+  "_id": {
+    "$oid": "66f00989ba9e63a692ddbc46"
+  },
+  "name": "Madan",
+  "age": 24,
+  "math_score": 95,
+  "city": "Chicago",
+  "graduated": true
+},
+{
+  "_id": {
+    "$oid": "66f00989ba9e63a692ddbc47"
+  },
+  "name": "Uvaish",
+  "age": 21,
+  "math_score": 60,
+  "physics_score": 85,
+  "city": "Houston"
+}]
